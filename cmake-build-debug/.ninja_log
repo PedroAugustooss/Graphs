@@ -1,0 +1,8 @@
+# ninja log v6
+4	95	7561102184330501	CMakeFiles/Grafos.dir/main.c.obj	5908772e470d1611
+2	277	7561103320026771	build.ninja	37d2bd5fd6db6e94
+23	126	7561103320956984	CMakeFiles/Grafos.dir/Main.c.obj	508c4153c73c7c03
+27	138	7561103320996984	CMakeFiles/Grafos.dir/Engine.c.obj	d69233e6b135551e
+36	150	7561103321087019	CMakeFiles/Grafos.dir/Menu.c.obj	6f28e743f841490b
+31	168	7561103321036998	CMakeFiles/Grafos.dir/Grafos.c.obj	262e07bf86dc137d
+168	274	7561103322407307	Grafos.exe	b7a38713a152fd00
