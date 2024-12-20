@@ -107,10 +107,12 @@ void Cria_Arestas(Grafo* grafo, bool* flag_ares) {
 
     srand(time(nullptr));
 
+    int aux = 0;
+
     for (int i = 0; i < grafo->vet; i++) {
         for (int j = i+1; j < grafo->vet; j++) {
 
-            int aux = rand() % LIMITE;
+            aux = rand() % LIMITE;
 
             if ((aux % 2) == 0) {
 
